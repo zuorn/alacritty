@@ -7,7 +7,7 @@ Alacritty 将自己标榜为最快的终端模拟器。事实上它的确要比 
 ## 安装
 
 
-```
+```sh
 # Mac 
 brew cask install alacritty
 
@@ -26,7 +26,7 @@ Alacritty 默认不会添加配置文件，需要自己手动添加。
 
 - Linux & Mac
 
-```
+```sh
 ~/.config/alacritty/alacritty.yml
 ```
 
